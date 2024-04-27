@@ -1,0 +1,17 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/WpfApp2.csproj
+/MyBrokenLine.cs
+/MyCircle.cs
+/MyEllipse.cs
+/MyPolygon.cs
+/MyRectangle.cs
+/MySprite.cs
+/MyShape.cs
+/MyTriangle.cs
+/MySquare.cs
+/MyShapeList.cs
+/WpfApp2.sln
